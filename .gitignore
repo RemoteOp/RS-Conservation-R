@@ -1,0 +1,33 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv
+renv/library/
+renv/staging/
+
+# OS / Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Cache
+.cache/
+
+# Large data (optional – adjust later)
+*.tif
+*.nc
+*.hdf
+*.grd
+*.asc
+
+# Output folders (optional)
+output/
+results/
